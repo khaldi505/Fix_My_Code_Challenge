@@ -1,1 +1,1 @@
-__new type of projects__
+__new projects__
